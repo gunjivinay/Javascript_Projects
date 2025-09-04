@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 30px;
+    background: radial-gradient(ellipse at center, #dcfce7, #ccfbf1, #f87171);
+
+}
+
+
+
+.Labels{
+   font-size: 2em;
+}
+
+#myButton{
+    padding: 10px 20px;
+    font-size: 2em;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(123, 241, 4);
+}
